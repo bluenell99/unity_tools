@@ -1,7 +1,7 @@
 {
-    "name":"com.jamie.tools",
-    "author": "Jamie",
-    "version":"0.0.1",
-    "displayName":"Tools Package",
-    "description":"Tools package for Unity"
+  "name": "com.jamie.tools",
+  "version": "0.0.1-preview.1",
+  "displayName": "Jamie's Tools",
+  "description": "Custom tool and features.",
+  "type": "tool"
 }
